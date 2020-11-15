@@ -10,7 +10,7 @@ import sys
 from shutil import rmtree
 
 from setuptools import find_packages, setup, Command
-import gaust
+
 # Package meta-data.
 NAME = 'gaust'
 DESCRIPTION = 'A command line tool to count lines and files numbers under current directory.'
